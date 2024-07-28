@@ -2,7 +2,7 @@
 
 namespace Prog7___Identifiers
 {
-    internal class Program
+    internal class Prog7
     {
         static void Main(string[] args)
         {
