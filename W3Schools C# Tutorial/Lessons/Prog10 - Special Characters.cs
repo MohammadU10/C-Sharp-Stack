@@ -1,4 +1,4 @@
-﻿namespace Prog10___Special_Characters
+namespace Prog10___Special_Characters
 {
     internal class Prog10
     {
@@ -11,9 +11,9 @@
             /* The backslash (\) escape character turns special characters into string characters:
             ---------------------------------------------------------------
                 [Escape character]        [Result]      [Description]
-                       \'	                 '   	     Single quote
-                       \"	                 "	         Double quote
-                       \\	                 \	         Backslash
+                       \'	                 '          Single quote
+                       \"	                 "          Double quote
+                       \\	                 \          Backslash
             ---------------------------------------------------------------
             */
 
